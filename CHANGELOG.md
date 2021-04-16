@@ -5,6 +5,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
 
+### Removed
+- no longer implement "set" for hardware without position (had raised NotImplementedError)
+
 ## [2021.1.1]
 
 ### Changed
